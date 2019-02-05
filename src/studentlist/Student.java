@@ -14,7 +14,7 @@ public class Student {
     private String name;
     private int ID;
     private String DOB;
-    
+    private int minHrs;
     private int maxHrs;
     public Student()
     {
