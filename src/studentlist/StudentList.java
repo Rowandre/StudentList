@@ -10,6 +10,7 @@ package studentlist;
  *
  * @author shaim
  *Date: February 5, 2019
+ *Location: Davis Campus
  */
 public class StudentList {
 
